@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Wache",
-      "address": "10.10.13.19:6969"
+      "address": "http://10.10.13.19:6969"
     }
   ]
 }
